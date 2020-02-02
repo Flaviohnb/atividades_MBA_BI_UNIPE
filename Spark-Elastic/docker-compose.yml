@@ -13,7 +13,6 @@ services:
     container_name: elasticsearch-node
     ports: 
       - "9200:9200"
-      - "9300:9300"
     volumes:
       - ./elasticsearch:/usr/share/elasticsearch/data
     environment:
@@ -29,16 +28,13 @@ services:
         limits:
           memory: 2g
 #  kibana:
-#    image: docker.elastic.co/kibana/kibana:5.6.1
+#    image: docker.elastic.co/kibana/kibana:7.5.2
 #    container_name: kibana-node
 #    ports:
 #      - "5601:5601"
-#    environment:
-#      - "xpack.security.enabled=false"
 
 volumes:
     pyspark:
         driver: local
     elasticsearch:
-        driver: local
-        
+        driver: local        
