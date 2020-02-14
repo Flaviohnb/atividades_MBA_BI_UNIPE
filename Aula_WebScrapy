@@ -1,0 +1,32 @@
+Passos para instalar o scrapy:
+
+Baixar o Anaconda:
+https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe
+
+Instalar
+
+Abrir o prompt do Anaconda como administrador:
+Tecla de Iniciar do Windows, digitar "anaconda prompt" clicar com o botão direito e abrir como administrador
+
+Para instalar o scrapy, digitar:
+conda install -c conda-forge scrapy
+
+Verificar que o scrapy foi instaldo com sucesso:
+scrapy
+
+Deve aparecer algo como:
+'Scrapy 1.8.0 - no active project
+
+Usage:
+  scrapy <command> [options] [args]'
+  
+e os comandos disponíveis
+
+
+Se não aparecer, corrigir a instalação com o seguinte comando:
+pip install --force-reinstall scrapy 
+
+
+
+Meu GitHub: https://github.com/Dienert
+Proxy: https://github.com/Dienert/proxy
