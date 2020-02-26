@@ -1,218 +1,284 @@
 [
     {
-        "date": "2018-03-09",
-        "descricao": "Repasse pagamento: 17223405 de Jorge Teixeira",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-01-27",
+        "descricao": "COMPRA CARTAO MAESTRO              27/01 BRICKTOP.S CAFE\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-09",
-        "descricao": "Tarifa repasse: 17223405 de Jorge Teixeira",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-01-27",
+        "descricao": "COMPRA CARTAO MAESTRO              27/01 STUDIO CAFE TAM\n \t\t\t\t\t\t",
+        "valor": "-13.50\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-20",
-        "descricao": "Repasse pagamento: 22612776 de Paulo Jorge Alves",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-01-29",
+        "descricao": "COMPRA CARTAO MAESTRO              29/01 GALERIA\n \t\t\t\t\t\t",
+        "valor": "-17.64\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-20",
-        "descricao": "Tarifa repasse: 22612776 de Paulo Jorge Alves",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-01-29",
+        "descricao": "COMPRA CARTAO MAESTRO              29/01 STUDIO CAFE CON\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-30",
-        "descricao": "Repasse pagamento: 28015595 de Fulano Aguiar",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-01-30",
+        "descricao": "COMPRA CARTAO MAESTRO              30/01 REPUBLICA DO AC\n \t\t\t\t\t\t",
+        "valor": "-17.81\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-30",
-        "descricao": "Tarifa repasse: 28015595 de Fulano Aguiar",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-01-31",
+        "descricao": "COMPRA CARTAO MAESTRO              31/01 MARE ALTA\n \t\t\t\t\t\t",
+        "valor": "-23.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-06",
-        "descricao": "Repasse pagamento: 28108174 de Ciclano da Silva",
-        "valor": "65,10",
-        "referencia": "2018-04-29"
+        "date": "2020-01-31",
+        "descricao": "COMPRA CARTAO MAESTRO              31/01 STUDIO CAFE TAM\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-06",
-        "descricao": "Tarifa repasse: 28108174 de Ciclano da Silva",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-01-31",
+        "descricao": "COMPRA CARTAO MAESTRO              31/01 STUDIO CAFE TAM\n \t\t\t\t\t\t",
+        "valor": "-11.50\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-16",
-        "descricao": "Repasse pagamento: 29384993 de Jorge Amado",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-02-03",
+        "descricao": "COMPRA CARTAO MAESTRO              03/02 BUSINESSFOOD\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-16",
-        "descricao": "Tarifa repasse: 29384993 de Jorge Amado",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-03",
+        "descricao": "COMPRA CARTAO MAESTRO              03/02 STUDIO CAFE TAM\n \t\t\t\t\t\t",
+        "valor": "-9.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-17",
-        "descricao": "Repasse pagamento: 29447637 de Pedro Jorge",
-        "valor": "55,80",
-        "referencia": "2018-04-29"
+        "date": "2020-02-04",
+        "descricao": "COMPRA CARTAO MAESTRO              04/02 BRICKTOPS CAFE\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-17",
-        "descricao": "Tarifa repasse: 29447637 de Pedro Jorge",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-05",
+        "descricao": "COMPRA CARTAO MAESTRO              05/02 BRICKTOPS CAFE\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-28",
-        "descricao": "Repasse pagamento: 29517140 de Beltrano Diniz",
-        "valor": "120,90",
-        "referencia": "2018-04-29"
+        "date": "2020-02-05",
+        "descricao": "COMPRA CARTAO MAESTRO              05/02 STUDIO CAFE CON\n \t\t\t\t\t\t",
+        "valor": "-3.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-28",
-        "descricao": "Tarifa repasse: 29517140 de Beltrano Diniz",
-        "valor": "-7,23",
-        "referencia": "2018-04-29"
+        "date": "2020-02-06",
+        "descricao": "CREDITO DE SALARIO                 INDRA BRAS 01645738000179\n \t\t\t\t\t\t",
+        "valor": "2658.80\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-29",
-        "descricao": "Repasse pagamento: 29533821 de Henrique Almeida",
-        "valor": "55,80",
-        "referencia": "2018-04-29"
+        "date": "2020-02-06",
+        "descricao": "COMPRA CARTAO MAESTRO              06/02 BUSINESSFOOD\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-29",
-        "descricao": "Tarifa repasse: 29533821 de Henrique Almeida",
-        "valor": "-3,49",
-        "referencia": "2018-04-29"
+        "date": "2020-02-06",
+        "descricao": "COMPRA CARTAO MAESTRO              06/02 POSTO NOVENTA E\n \t\t\t\t\t\t",
+        "valor": "-210.58\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-29",
-        "descricao": "Repasse pagamento: 30830691 de Duque Alves",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-02-06",
+        "descricao": "TED MESMA TITULARIDADE CIP         001-4996-000000098884\n \t\t\t\t\t\t",
+        "valor": "-1500.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-29",
-        "descricao": "Tarifa repasse: 30830691 de Duque Alves",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-06",
+        "descricao": "COMPRA CARTAO MAESTRO              06/02 BARBEARIA FLAVI\n \t\t\t\t\t\t",
+        "valor": "-35.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-09",
-        "descricao": "Repasse pagamento: 17223405 de Jorge Teixeira",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-02-07",
+        "descricao": "TARIFA TEDELETRONICO               06/02/2020\n \t\t\t\t\t\t",
+        "valor": "-8.24\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-09",
-        "descricao": "Tarifa repasse: 17223405 de Jorge Teixeira",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-07",
+        "descricao": "COMPRA CARTAO MAESTRO              07/02 ALL PARK JOAO P\n \t\t\t\t\t\t",
+        "valor": "-100.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-20",
-        "descricao": "Repasse pagamento: 22612776 de Paulo Jorge Alves",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-02-07",
+        "descricao": "COMPRA CARTAO MAESTRO              07/02 GALERIA\n \t\t\t\t\t\t",
+        "valor": "-24.11\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-20",
-        "descricao": "Tarifa repasse: 22612776 de Paulo Jorge Alves",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-07",
+        "descricao": "COMPRA CARTAO MAESTRO              07/02 IPE\n \t\t\t\t\t\t",
+        "valor": "-330.40\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-30",
-        "descricao": "Repasse pagamento: 28015595 de Fulano Aguiar",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-02-07",
+        "descricao": "COMPRA CARTAO MAESTRO              07/02 SUBWAY\n \t\t\t\t\t\t",
+        "valor": "-13.50\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-03-30",
-        "descricao": "Tarifa repasse: 28015595 de Fulano Aguiar",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-07",
+        "descricao": "REMUNERACAO CONTAMAX CDB DI\n \t\t\t\t\t\t",
+        "valor": "0.20\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-06",
-        "descricao": "Repasse pagamento: 28108174 de Ciclano da Silva",
-        "valor": "65,10",
-        "referencia": "2018-04-29"
+        "date": "2020-02-10",
+        "descricao": "COMPRA CARTAO MAESTRO              08/02 NOVO ORIENTE\n \t\t\t\t\t\t",
+        "valor": "-16.87\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-06",
-        "descricao": "Tarifa repasse: 28108174 de Ciclano da Silva",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-10",
+        "descricao": "COMPRA CARTAO MAESTRO              08/02 STELO S A.Dulce\n \t\t\t\t\t\t",
+        "valor": "-3.50\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-16",
-        "descricao": "Repasse pagamento: 29384993 de Jorge Amado",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-02-10",
+        "descricao": "COMPRA CARTAO MAESTRO              09/02 BOBS DRIVE BANC\n \t\t\t\t\t\t",
+        "valor": "-17.50\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-16",
-        "descricao": "Tarifa repasse: 29384993 de Jorge Amado",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-10",
+        "descricao": "TARIFA MENSALIDADE PACOTE SERVICOS  JANEIRO / 2020\n \t\t\t\t\t\t",
+        "valor": "-8.20\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-17",
-        "descricao": "Repasse pagamento: 29447637 de Pedro Jorge",
-        "valor": "55,80",
-        "referencia": "2018-04-29"
+        "date": "2020-02-10",
+        "descricao": "PAGAMENTO CARTAO CREDITO BCE       10/02 08:14 CARTAO MASTER\n \t\t\t\t\t\t",
+        "valor": "-170.06\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-17",
-        "descricao": "Tarifa repasse: 29447637 de Pedro Jorge",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-12",
+        "descricao": "COMPRA CARTAO MAESTRO              12/02 BRICKTOPS CAFE\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-28",
-        "descricao": "Repasse pagamento: 29517140 de Beltrano Diniz",
-        "valor": "120,90",
-        "referencia": "2018-04-29"
+        "date": "2020-02-12",
+        "descricao": "COMPRA CARTAO MAESTRO              12/02 SUBWAY\n \t\t\t\t\t\t",
+        "valor": "-21.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-28",
-        "descricao": "Tarifa repasse: 29517140 de Beltrano Diniz",
-        "valor": "-7,23",
-        "referencia": "2018-04-29"
+        "date": "2020-02-12",
+        "descricao": "COMPRA CARTAO MAESTRO              12/02 EMP BARNABE MAN\n \t\t\t\t\t\t",
+        "valor": "-14.90\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-29",
-        "descricao": "Repasse pagamento: 29533821 de Henrique Almeida",
-        "valor": "55,80",
-        "referencia": "2018-04-29"
+        "date": "2020-02-13",
+        "descricao": "COMPRA CARTAO MAESTRO              13/02 STUDIO CAFE CON\n \t\t\t\t\t\t",
+        "valor": "-2.50\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-29",
-        "descricao": "Tarifa repasse: 29533821 de Henrique Almeida",
-        "valor": "-3,49",
-        "referencia": "2018-04-29"
+        "date": "2020-02-14",
+        "descricao": "COMPRA CARTAO MAESTRO              14/02 NHOLANDA BURGER\n \t\t\t\t\t\t",
+        "valor": "-20.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-29",
-        "descricao": "Repasse pagamento: 30830691 de Duque Alves",
-        "valor": "74,40",
-        "referencia": "2018-04-29"
+        "date": "2020-02-14",
+        "descricao": "COMPRA CARTAO MAESTRO              14/02 STELO S A.Dulce\n \t\t\t\t\t\t",
+        "valor": "-3.50\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     },
     {
-        "date": "2018-04-29",
-        "descricao": "Tarifa repasse: 30830691 de Duque Alves",
-        "valor": "-3,34",
-        "referencia": "2018-04-29"
+        "date": "2020-02-17",
+        "descricao": "COMPRA CARTAO MAESTRO              15/02 STELO S A.Dulce\n \t\t\t\t\t\t",
+        "valor": "-3.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-18",
+        "descricao": "TRANSFERENCIA ENTRE CONTAS         ALISSON ALCOFORADO SENA D\n \t\t\t\t\t\t",
+        "valor": "27.90\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-18",
+        "descricao": "COMPRA CARTAO MAESTRO              18/02 DOCE ACAI\n \t\t\t\t\t\t",
+        "valor": "-14.12\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-19",
+        "descricao": "COMPRA CARTAO MAESTRO              19/02 STUDIO CAFE CON\n \t\t\t\t\t\t",
+        "valor": "-7.50\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-20",
+        "descricao": "COMPRA CARTAO MAESTRO              20/02 BUSINESSFOOD\n \t\t\t\t\t\t",
+        "valor": "-12.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-26",
+        "descricao": "COMPRA CARTAO MAESTRO              23/02 PORTAL ADMINIST\n \t\t\t\t\t\t",
+        "valor": "-6.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-26",
+        "descricao": "COMPRA CARTAO MAESTRO              24/02 GIRAFFAS MAG SH\n \t\t\t\t\t\t",
+        "valor": "-22.90\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-26",
+        "descricao": "COMPRA CARTAO MAESTRO              24/02 LOJAS AMERICANA\n \t\t\t\t\t\t",
+        "valor": "-9.99\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-26",
+        "descricao": "COMPRA CARTAO MAESTRO              24/02 MAG ADMINISTRAC\n \t\t\t\t\t\t",
+        "valor": "-5.00\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-26",
+        "descricao": "COMPRA CARTAO MAESTRO              24/02 PANIFICADORA LA\n \t\t\t\t\t\t",
+        "valor": "-6.46\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-26",
+        "descricao": "COMPRA CARTAO MAESTRO              26/02 JP JD CID UNIV\n \t\t\t\t\t\t",
+        "valor": "-23.08\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
+    },
+    {
+        "date": "2020-02-26",
+        "descricao": "COMPRA CARTAO MAESTRO              26/02 PANIFICADORA LA\n \t\t\t\t\t\t",
+        "valor": "-11.20\n \t\t\t\t\t\t\t",
+        "referencia": "2020-02-26"
     }
 ]
