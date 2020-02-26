@@ -6,3 +6,6 @@
 
 - Limpando os dados: 
     /scripts/Transformacao.ipynb 
+
+- Link Observable:
+    https://observablehq.com/@flaviohnb/untitled
