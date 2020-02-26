@@ -1,0 +1,218 @@
+[
+    {
+        "date": "2018-03-09",
+        "descricao": "Repasse pagamento: 17223405 de Jorge Teixeira",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-09",
+        "descricao": "Tarifa repasse: 17223405 de Jorge Teixeira",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-20",
+        "descricao": "Repasse pagamento: 22612776 de Paulo Jorge Alves",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-20",
+        "descricao": "Tarifa repasse: 22612776 de Paulo Jorge Alves",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-30",
+        "descricao": "Repasse pagamento: 28015595 de Fulano Aguiar",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-30",
+        "descricao": "Tarifa repasse: 28015595 de Fulano Aguiar",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-06",
+        "descricao": "Repasse pagamento: 28108174 de Ciclano da Silva",
+        "valor": "65,10",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-06",
+        "descricao": "Tarifa repasse: 28108174 de Ciclano da Silva",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-16",
+        "descricao": "Repasse pagamento: 29384993 de Jorge Amado",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-16",
+        "descricao": "Tarifa repasse: 29384993 de Jorge Amado",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-17",
+        "descricao": "Repasse pagamento: 29447637 de Pedro Jorge",
+        "valor": "55,80",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-17",
+        "descricao": "Tarifa repasse: 29447637 de Pedro Jorge",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-28",
+        "descricao": "Repasse pagamento: 29517140 de Beltrano Diniz",
+        "valor": "120,90",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-28",
+        "descricao": "Tarifa repasse: 29517140 de Beltrano Diniz",
+        "valor": "-7,23",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-29",
+        "descricao": "Repasse pagamento: 29533821 de Henrique Almeida",
+        "valor": "55,80",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-29",
+        "descricao": "Tarifa repasse: 29533821 de Henrique Almeida",
+        "valor": "-3,49",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-29",
+        "descricao": "Repasse pagamento: 30830691 de Duque Alves",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-29",
+        "descricao": "Tarifa repasse: 30830691 de Duque Alves",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-09",
+        "descricao": "Repasse pagamento: 17223405 de Jorge Teixeira",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-09",
+        "descricao": "Tarifa repasse: 17223405 de Jorge Teixeira",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-20",
+        "descricao": "Repasse pagamento: 22612776 de Paulo Jorge Alves",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-20",
+        "descricao": "Tarifa repasse: 22612776 de Paulo Jorge Alves",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-30",
+        "descricao": "Repasse pagamento: 28015595 de Fulano Aguiar",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-03-30",
+        "descricao": "Tarifa repasse: 28015595 de Fulano Aguiar",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-06",
+        "descricao": "Repasse pagamento: 28108174 de Ciclano da Silva",
+        "valor": "65,10",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-06",
+        "descricao": "Tarifa repasse: 28108174 de Ciclano da Silva",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-16",
+        "descricao": "Repasse pagamento: 29384993 de Jorge Amado",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-16",
+        "descricao": "Tarifa repasse: 29384993 de Jorge Amado",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-17",
+        "descricao": "Repasse pagamento: 29447637 de Pedro Jorge",
+        "valor": "55,80",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-17",
+        "descricao": "Tarifa repasse: 29447637 de Pedro Jorge",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-28",
+        "descricao": "Repasse pagamento: 29517140 de Beltrano Diniz",
+        "valor": "120,90",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-28",
+        "descricao": "Tarifa repasse: 29517140 de Beltrano Diniz",
+        "valor": "-7,23",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-29",
+        "descricao": "Repasse pagamento: 29533821 de Henrique Almeida",
+        "valor": "55,80",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-29",
+        "descricao": "Tarifa repasse: 29533821 de Henrique Almeida",
+        "valor": "-3,49",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-29",
+        "descricao": "Repasse pagamento: 30830691 de Duque Alves",
+        "valor": "74,40",
+        "referencia": "2018-04-29"
+    },
+    {
+        "date": "2018-04-29",
+        "descricao": "Tarifa repasse: 30830691 de Duque Alves",
+        "valor": "-3,34",
+        "referencia": "2018-04-29"
+    }
+]

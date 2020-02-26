@@ -1,0 +1,33 @@
+CountryRegion,Suspected,Recovered,Confirmed,Death
+Australia,1,48,80,44
+Belgium,0,3,3,3
+Brazil,1,0,0,0
+Cambodia,0,11,24,11
+Canada,0,27,50,27
+Colombia,1,0,0,0
+Finland,0,11,17,11
+France,0,11,30,11
+Germany,0,11,22,11
+Hong Kong,9,11,32,11
+India,0,11,15,11
+Italy,0,11,14,11
+Ivory Coast,0,0,1,0
+Japan,0,26,34,11
+Macau,0,11,33,11
+Mainland China,73,555,1007,468
+Malaysia,1,11,29,11
+Mexico,1,0,0,0
+Nepal,0,11,29,11
+Philippines,1,11,15,11
+Russia,0,11,13,11
+Singapore,0,11,32,11
+South Korea,0,11,34,11
+Spain,0,11,12,11
+Sri Lanka,0,12,23,11
+Sweden,0,11,13,11
+Taiwan,0,11,34,11
+Thailand,0,26,34,11
+UK,0,11,13,11
+United Arab Emirates,0,11,18,11
+United States,0,83,154,83
+Vietnam,0,12,32,11
