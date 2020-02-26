@@ -1,0 +1,31 @@
+<OFX>
+  <SIGNONMSGSRQV1>
+    <SONRQ>
+      <DTCLIENT>20071015021529.000[-8:PST]
+      <USERID>Greg123
+      <USERPASS>Greg
+      <LANGUAGE>ENG
+      <FI>
+        <ORG>MYBANK
+        <FID>01234
+      </FI>
+      <APPID>QWIN
+      <APPVER>0900
+    </SONRQ>
+  </SIGNONMSGSRQV1>
+  <BANKMSGSRQV1>
+    <STMTTRNRQ>
+      <TRNUID>23382938
+      <STMTRQ>
+        <BANKACCTFROM>
+          <BANKID>987654321
+          <ACCTID>098-121
+          <ACCTTYPE>SAVINGS
+        </BANKACCTFROM>
+        <INCTRAN>
+          <INCLUDE>Y
+        </INCTRAN>
+      </STMTRQ>
+    </STMTTRNRQ>
+  </BANKMSGSRQV1>
+</OFX>

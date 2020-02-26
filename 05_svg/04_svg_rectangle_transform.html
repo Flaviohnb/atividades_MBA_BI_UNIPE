@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<style>
+rect {
+    fill: red;
+}
+rect:hover {
+    -ms-transform: rotate(360deg); /* IE 9 */
+    -webkit-transform: rotate(360deg); /* Safari */
+    transform: rotate(360deg);
+    fill: blue;
+    transform-origin: 350px 150px;
+    transition: transform 2s, fill 2s;
+}
+</style>
+
+<meta charset="utf-8">
+<html>
+<body>
+  <svg width="800" height="800">
+    <rect width="300" height="100" x="200" y="100" fill="yellow" stroke="black" stroke-width="3"
+    />
+  </svg>
+</body>
+</html>
