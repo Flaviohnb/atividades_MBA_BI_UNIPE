@@ -5,7 +5,7 @@
   "dependencies": {
     "chroma-js": "^1.4.0",
     "d3": "^5.7.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10"
